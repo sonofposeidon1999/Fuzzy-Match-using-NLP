@@ -9,9 +9,13 @@ Implementation
 
 2.	Pre-processing of Ledger Narration and Bank Statement is done using NLTK(Natural Language Tool Kit):
 •	Removal of punctuations
+
 •	Converting to lower case
+
 •	Removal of stop words
+
 •	Removal of top 5 frequent words
+
 
 3.	A list of ledger narrations are mapped to every Bank statement based on amount.
 
